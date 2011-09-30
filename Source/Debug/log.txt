@@ -1,0 +1,25 @@
+beginning Galacta log file
+Created and showed window
+Initialized COM
+Beginning DirectMusic initialization.
+Beginning DirectShow initialization
+Beginning DirectMusic initialization.
+Beginning DirectInput initialization
+Entering d3d initialization function
+220
+Created the direct3D object
+Retrieved the adapter display settings
+Created the direct3d device.
+Created the d3dx sprite interface
+d3d initialized
+Created font object from system font
+*** Failed to find the sound file:
+laser.wav
+Beginning DirectShow release.
+DirectShow released successfully.
+Beginning DirectShow initialization
+*** Couldn't find music file.
+*** Failed to find the sound file:
+smexp.wav
+Loaded sound files
+Loaded all textures, entering update loop at 20/1000 Hz
